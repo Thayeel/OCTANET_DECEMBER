@@ -4,4 +4,4 @@ GitHub repository: https://github.com/Thayeel/OCTANET_DECEMBER
 
 Task Link:
 
-task-1 : 
+task-1 : https://thayeel.github.io/OCTANET_DECEMBER/Task01
